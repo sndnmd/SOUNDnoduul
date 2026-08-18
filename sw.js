@@ -4,7 +4,7 @@
 // live, or the gallery would show stale data or fail confusingly offline.
 // Bump CACHE_NAME whenever the app shell files change, so old caches get
 // cleared out on the next visit instead of serving a stale version forever.
-const CACHE_NAME = 'soundnoduul-shell-v30';
+const CACHE_NAME = 'soundnoduul-shell-v39';
 
 const APP_SHELL = [
   './',
